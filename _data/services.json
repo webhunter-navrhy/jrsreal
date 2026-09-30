@@ -1,0 +1,80 @@
+[
+ {
+  "id": "prodej",
+  "title": "Prodej nemovitostí",
+  "lead": "Profesionální servis od odhadu ceny až po předání klíčů – bezpečně, rychle a s maximálním výnosem.",
+  "points": [
+   "Realistický odhad ceny podle aktuálních dat z trhu",
+   "Profi fotografie, videoprohlídky, půdorysy a 3D sken",
+   "Inzerce na realitních serverech i sociálních sítích",
+   "Prověření kupujících a jejich financování"
+  ],
+  "image": "assets/img/palava.webp"
+ },
+ {
+  "id": "pronajem",
+  "title": "Pronájem nemovitostí",
+  "lead": "Určení ceny nájmu, prezentace, prověření nájemníků i podpis smlouvy. Pronájem rychle a bez zbytečných rizik.",
+  "points": [
+   "Doporučení optimální výše nájemného",
+   "Důkladné prověření zájemců",
+   "Nájemní smlouva a předávací protokol",
+   "Po dohodě i následná správa"
+  ],
+  "image": "img/nemovitosti/158-1.webp"
+ },
+ {
+  "id": "odhad",
+  "title": "Odhad ceny",
+  "lead": "Prohlídka nemovitosti, porovnání cen v okolí a odborný odhad, který vychází z aktuální situace na trhu.",
+  "points": [
+   "Nezávazně a přehledně",
+   "Podklad pro prodejní strategii",
+   "Cenové mapy a data z reálných obchodů"
+  ],
+  "image": "img/nemovitosti/186-1.webp"
+ },
+ {
+  "id": "financovani",
+  "title": "Financování",
+  "lead": "Pomůžeme s hypotékou – porovnáme nabídky více bank a vyřídíme komunikaci za vás.",
+  "points": [
+   "Výběr z více bank a finančních institucí",
+   "Asistence při komunikaci s bankou",
+   "Hlídání sazeb a vhodného času na refinancování"
+  ],
+  "image": "img/nemovitosti/113-1.webp"
+ },
+ {
+  "id": "pravni",
+  "title": "Právní servis",
+  "lead": "Kupní, nájemní, rezervační i budoucí smlouvy, advokátní úschova a podání na katastr ve spolupráci s advokátními kancelářemi.",
+  "points": [
+   "Příprava a kontrola smluvní dokumentace",
+   "Advokátní úschova kupní ceny",
+   "Komunikace s katastrem a úřady"
+  ],
+  "image": "img/nemovitosti/232-1.webp"
+ },
+ {
+  "id": "developeri",
+  "title": "Developerské projekty",
+  "lead": "Pro investory a developery: nastavení cen a prodejní strategie, marketing a rozprodej jednotek.",
+  "points": [
+   "Nastavení konceptu a cen",
+   "Marketing a prezentace projektu",
+   "Prodej jednotek až po předání"
+  ],
+  "image": "img/projekty/rezidence-hrusovany-1.webp"
+ },
+ {
+  "id": "zahranici",
+  "title": "Zahraniční apartmány",
+  "lead": "Zprostředkování investic do apartmánů v Albánii a na Severním Kypru.",
+  "points": [
+   "Albánie",
+   "Severní Kypr"
+  ],
+  "image": ""
+ }
+]
